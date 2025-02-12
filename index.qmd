@@ -1,5 +1,7 @@
 ---
 title: "miranda-chin.github.io"
+Links:
+- text: linkedin
 ---
 
 This is a Quarto website.
