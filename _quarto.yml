@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "miranda-chin.github.io"
+  title: "Miranda's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
+      - Projects.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-location: left
+    linkcolor: "#C812DE"
 
 editor: visual
 
