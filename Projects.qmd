@@ -1,0 +1,14 @@
+---
+title: "Projects"
+format: html
+---
+
+# SUPER
+
+# Quantitative Reasoning
+
+In the Spring of 2025 I took a class Quantitative Reasoning class based **in** R. I wrote some code, and did some cool data science. Here is a collection of links!
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo **for** access to all the code.
+-   Look at how high quality my work is!
