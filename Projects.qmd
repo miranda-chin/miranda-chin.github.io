@@ -5,6 +5,8 @@ format: html
 
 # SUPER
 
+From Fall 2024 to Spring 2025 I participated in the SUPER program, which is a research program dedicated to undergraduates. In my project, I worked with Dr. Jody Vogeler to train a model that can identify tree status based on remote imagery.
+
 # Quantitative Reasoning
 
 In the Spring of 2025 I took a class Quantitative Reasoning class based **in** R. I wrote some code, and did some cool data science. Here is a collection of links!
