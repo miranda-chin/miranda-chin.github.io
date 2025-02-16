@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Resume/CV\nMiranda Chin\nmchin2387@gmail.com • 720-469-2539 • www.linkedin.com/in/chin-miranda\n\nENVIRONMENTAL PROFILE SUMMARY\nI am a current student interested in both technical and field experience in a workplace centered around environmental science. I have knowledge in the biological sciences as well as data analytics and have experience working independently and as part of a team.\n▪ Strong understanding of biological and environmental based sciences\n▪ Adaptable and able to use multiple software programs in various applications\n▪ Committed to helping others and giving back to local communities\n\n\n\nECOSYSTEM SCIENCE EDUCATION\nB.S. in Ecosystem Science and Sustainability Degree expected May 2025\nColorado State University, Fort Collins, CO GPA: 3.8\n\n\n\nNATURAL RESOURCES AND RELATED COURSEWORK\nSUPER Program, Undergraduate Ecological Research Fall 2024-Present\n▪ Developed skills in data analysis for remote sensing work\n▪ Bolstered statistical skills in programs such as R\nWriting in the Disciplines: Science, CO 301B Summer 2023\n▪ Developed the ability to write clearly and concisely with a focus in the sciences\n▪ Able to research different topics and analyze academic papers efficiently\nEcology, LIFE 320 Spring 2024\n▪ Deepened my understanding of concepts in both biology and ecology\n▪ Established knowledge of systems thinking and natural resources\nLimnology, ESS 474 Fall 2024\n▪ Utilized skills in R to analyze data collected from field work\n▪ Utilized knowledge of biological systems to critically solve problems\n\n\n\nSOCIAL JUSTICE AND COMMUNITY EXPERIENCE\nMentor for Key Communities August 2024-May 2025\nColorado State University, Fort Collins\n▪ Kept track of students’ academics and provided aid if necessary\n▪ Engaged with students both in and out of a classroom setting\n▪ Organized large group events and kept track of logistics\nVolunteer at FoCo Cafe October 2023-April 2024\nFoCo Café, Fort Collins\n▪ Dedicated to giving back to the community and helping those in need\n▪ Greeted customers and those seeking food assistance\n▪ Responsible for picking up tasks and carrying out a variety of work"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "miranda-chin.github.io",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a senior at Colorado State University pursuing my bachelor’s in Ecosystem Science and Sustainability. I have an interest in both field and technical work and a strong passion for the outdoors."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "SUPER\n\n\nQuantitative Reasoning\nIn the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "Projects.html#building-a-project-website",
+    "href": "Projects.html#building-a-project-website",
+    "title": "Projects",
+    "section": "[Building a project website]()",
+    "text": "[Building a project website]()\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
   }
 ]
