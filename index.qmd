@@ -12,6 +12,8 @@ about:
       href: mailto:mchin2398@gmail.com
     - text: Warner College of Natural Resources
       href: https://warnercnr.colostate.edu/
+    - text: Github
+      href: https://github.com/miranda-chin
 ---
 
 My name is Miranda Chin and I'm a senior at Colorado State University pursuing my bachelor's in Ecosystem Science and Sustainability. I have an interest in both field and technical work with a strong passion for the outdoors.
