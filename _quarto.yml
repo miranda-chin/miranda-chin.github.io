@@ -18,6 +18,8 @@ format:
     css: styles.css
     toc: true
     toc-location: left
+    body-bg: "#6a8c95"
+    body-color: "#2350dc"
     linkcolor: "#2fc5d0"
 
 editor: visual
