@@ -1,8 +1,8 @@
 ---
 title: "Welcome!"
-image: img/IMG_5997copy.jpeg
+image: 
 about:
-  template: broadside
+  template: trestles
   image-shape: rectangle
   image-width: 10em
   links: 
