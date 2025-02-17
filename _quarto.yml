@@ -14,11 +14,11 @@ website:
 
 format:
   html:
-    theme: paper
+    theme: sandstone
     css: styles.css
     toc: true
     toc-location: left
-    linkcolor: "#C812DE"
+    linkcolor: "#2542da"
 
 editor: visual
 
