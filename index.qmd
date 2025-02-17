@@ -1,8 +1,8 @@
 ---
 title: "Welcome!"
-image: docs/img/IMG_5997copy.jpeg
+image: //docs/img/IMG_5997copy.jpeg
 about:
-  template: trestles
+  template: jolla
   image-shape: rectangle
   image-width: 10em
   links: 
