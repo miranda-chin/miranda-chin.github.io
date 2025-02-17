@@ -1,8 +1,8 @@
 ---
 title: "Welcome!"
+image: mirandachin/ESS330/miranda-chin.github.io/img/IMG_5997copy.jpeg
 about:
   template: marquee
-  image: mirandachin/ESS330/miranda-chin.github.io/img/IMG_5997copy.jpeg
   image-shape: rectangle
   image-width: 10em
   links: 
