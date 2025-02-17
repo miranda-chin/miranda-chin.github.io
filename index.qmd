@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"
-image: /img/IMG_5997copy.jpeg
+image: img/IMG_5997copy.jpeg
 about:
   template: broadside
   image-shape: rectangle
