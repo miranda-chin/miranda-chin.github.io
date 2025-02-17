@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: paper
     css: styles.css
     toc: true
     toc-location: left

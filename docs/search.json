@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "My name is Miranda and I’m a senior at Colorado State University pursuing my bachelor’s in Ecosystem Science and Sustainability. I have an interest in both field and technical work and a strong passion for the outdoors."
+    "text": "My name is Miranda and I’m a senior at Colorado State University pursuing my bachelor’s in Ecosystem Science and Sustainability. I have an interest in both field and technical work with a strong passion for the outdoors."
   },
   {
     "objectID": "Projects.html",
@@ -26,5 +26,12 @@
     "title": "Projects",
     "section": "[Building a project website]()",
     "text": "[Building a project website]()\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I grew up in Englewood, CO and have a love for hiking and the mountains. I decided to pursue a degree in Ecosystem Science and Sustainability in order to find a way to translate my interest in the environment into forward-thinking change in the real world."
   }
 ]
