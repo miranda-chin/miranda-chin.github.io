@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"
-image: 
+image: docs/img/IMG_5997copy.jpeg
 about:
   template: trestles
   image-shape: rectangle
