@@ -3,7 +3,7 @@ title: "Projects"
 format: html
 ---
 
-# SUPER
+# Skills for Undergraduate Participation in Ecological Research (SUPER)
 
 From Fall 2024 to Spring 2025 I participated in the SUPER program, which is a research program dedicated to undergraduates. In my project, I worked with Dr. Jody Vogeler to train a model that can identify tree status based on remote imagery.
 
