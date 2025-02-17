@@ -7,6 +7,8 @@ format: html
 
 From Fall 2024 to Spring 2025 I participated in the SUPER program, which is a research program dedicated to undergraduates. In my project, I worked with Dr. Jody Vogeler to train a model that can identify tree status based on remote imagery.
 
+I will present my research findings at CURC hosted at CSU in the Spring of 2025, as well as some possible outcomes for the model centered around end-user needs.
+
 # Quantitative Reasoning
 
-In the Spring of 2025 I took a class Quantitative Reasoning class based **in** R.
+In the Spring of 2025 I took a class Quantitative Reasoning class based **in** R. In this class I learned how to use R and Github, as well as the various ways to expand these skills in a professional setting.
