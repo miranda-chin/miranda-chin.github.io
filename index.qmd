@@ -2,7 +2,7 @@
 title: "Welcome!"
 image: /img/IMG_5997copy.jpeg
 about:
-  template: marquee
+  template: jolla
   image-shape: rectangle
   image-width: 10em
   links: 
