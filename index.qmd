@@ -3,8 +3,8 @@ title: "Welcome!"
 image: //docs/img/IMG_5997copy.jpeg
 about:
   template: jolla
-  image-shape: rectangle
-  image-width: 10em
+  image-shape: rounded
+  image-width: 20em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/chin-miranda

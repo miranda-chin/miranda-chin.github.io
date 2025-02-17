@@ -18,7 +18,7 @@ format:
     css: styles.css
     toc: true
     toc-location: left
-    linkcolor: "#2542da"
+    linkcolor: "#2fc5d0"
 
 editor: visual
 
